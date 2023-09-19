@@ -4,7 +4,9 @@
   display: flex;
   justify-content: space-around;
 }
-
+.flex {
+  display: flex;
+}
 /* ==================
     3. header of mobile
 ===================== */

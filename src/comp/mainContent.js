@@ -3,7 +3,7 @@ import './mainContent.css';
 
 const MainContent = ({pageName}) => {
   return (
-    <div>
+    <div className='main-content'>
         <main> {pageName} </main>
     </div>
   );
