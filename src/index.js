@@ -15,7 +15,7 @@ const router = createBrowserRouter([
     element: <Home />,
     errorElement: (
       <>
-        <h1>sorry....</h1>
+        <h1 style={{color: "red"}}>sorry....</h1>
       </>
     ),
   },
